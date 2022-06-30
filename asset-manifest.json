@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/IdeaBox/static/css/main.fe7a461e.chunk.css",
+    "main.js": "/IdeaBox/static/js/main.621eba43.chunk.js",
+    "main.js.map": "/IdeaBox/static/js/main.621eba43.chunk.js.map",
+    "runtime-main.js": "/IdeaBox/static/js/runtime-main.8691e2c1.js",
+    "runtime-main.js.map": "/IdeaBox/static/js/runtime-main.8691e2c1.js.map",
+    "static/css/2.97a13557.chunk.css": "/IdeaBox/static/css/2.97a13557.chunk.css",
+    "static/js/2.ff7d7ca1.chunk.js": "/IdeaBox/static/js/2.ff7d7ca1.chunk.js",
+    "static/js/2.ff7d7ca1.chunk.js.map": "/IdeaBox/static/js/2.ff7d7ca1.chunk.js.map",
+    "static/js/3.8f19fb17.chunk.js": "/IdeaBox/static/js/3.8f19fb17.chunk.js",
+    "static/js/3.8f19fb17.chunk.js.map": "/IdeaBox/static/js/3.8f19fb17.chunk.js.map",
+    "index.html": "/IdeaBox/index.html",
+    "static/css/2.97a13557.chunk.css.map": "/IdeaBox/static/css/2.97a13557.chunk.css.map",
+    "static/css/main.fe7a461e.chunk.css.map": "/IdeaBox/static/css/main.fe7a461e.chunk.css.map",
+    "static/js/2.ff7d7ca1.chunk.js.LICENSE.txt": "/IdeaBox/static/js/2.ff7d7ca1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/IdeaBox/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8691e2c1.js",
+    "static/css/2.97a13557.chunk.css",
+    "static/js/2.ff7d7ca1.chunk.js",
+    "static/css/main.fe7a461e.chunk.css",
+    "static/js/main.621eba43.chunk.js"
+  ]
+}
